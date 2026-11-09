@@ -1,0 +1,6 @@
+Créditos de multimedia (Wikimedia Commons)
+
+images/jardin_principal.jpg | CC BY-SA 4.0 | Juan Carlos Fonseca Mata | https://commons.wikimedia.org/wiki/File:Jard%C3%ADn_Principal_de_Dolores_Hidalgo,_Guanajuato.jpg
+images/parroquia.jpg | CC BY-SA 4.0 | Juan Carlos Fonseca Mata | https://commons.wikimedia.org/wiki/File:Parroquia_de_Nuestra_Se%C3%B1ora_de_los_Dolores_-_Dolores_Hidalgo,_Guanajuato,_M%C3%A9xico.jpg
+images/museo_hidalgo.jpg | CC BY-SA 4.0 | Juan Carlos Fonseca Mata | https://commons.wikimedia.org/wiki/File:Casa_de_Miguel_Hidalgo_y_Costilla_-_Dolores_Hidalgo,_Guanajuato,_M%C3%A9xico.jpg
+video/parroquia_fuente.mp4 | CC0 | Isaacvp | https://commons.wikimedia.org/wiki/File:Fuente_en_atrio_de_Parroquia_de_Nuestra_Se%C3%B1ora_de_los_Dolores,_Dolores_Hidalgo,_Guanajuato.webm
